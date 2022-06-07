@@ -1,3 +1,5 @@
+<h1>50문 50답</h1>
+
 - ✅  표시된 1~10번 질문은 모의면접에서 꼭 나오는 질문입니다. 필수로 숙지해주세요.
 
 | No | Questions | Answer |
@@ -52,3 +54,6 @@
 | 48 | 자바의 최상위 부모클래스가 무엇인지? |  |
 | 49 | 직렬화(serialization)란? |  |
 | 50 | final / finally / finalize() 차이는 무엇인가요? |  |
+
+
+Link : https://teamsparta.notion.site/50-50-50dfeb71cfa84693b170c50ce87b1e5a

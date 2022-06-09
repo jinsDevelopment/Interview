@@ -5,7 +5,7 @@
 | No | Questions | Answer |
 | --- | --- | --- |
 | 1 | JPA는 무엇인가?✅ | https://jinsdev.tistory.com/2 |
-| 2 | Spring Framework와 Spring Boot의 차이 ✅ |  |
+| 2 | Spring Framework와 Spring Boot의 차이 ✅ | https://jinsdev.tistory.com/3 |
 | 3 | Spring Web MVC의 Dispatcher Servlet의 동작 원리에 대해서 간단히 설명해주세요.✅ |  |
 | 4 | Spring Bean Life Cycle에 대해 설명해주세요 ✅ |  |
 | 5 | filter와 interceptor의 차이✅ |  |
